@@ -1,4 +1,4 @@
-# IT Support Portfolio – Femi Adedokun
+# IT Support Portfolio – Femi Adedokun.
 
 This repository documents my hands-on IT Support learning journey.
 
