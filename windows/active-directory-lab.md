@@ -42,3 +42,26 @@
 1. Disable account.
 2. Remove access if required.
 3. Document the action.
+
+# Scenario 6: User Cannot Access Finance Folder
+
+## Priority
+P2 - High
+
+## Issue
+User transferred from Sales to Finance but cannot access the Finance shared folder.
+
+## First Checks
+1. Verify the user account exists in Active Directory.
+2. Check whether the user is still a member of the Sales group.
+3. Check whether the user has been added to the Finance_Employees group.
+4. Confirm the Finance shared folder permissions include the Finance group.
+
+## Action Taken
+1. Added the user to the Finance_Employees group.
+2. Removed the user from the Sales group if required by company policy.
+3. Asked the user to sign out and sign back in so the new group membership would apply.
+4. Verified access to the Finance shared folder.
+
+## Status
+User confirmed access to the Finance shared folder was restored.
