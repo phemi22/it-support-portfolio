@@ -35,3 +35,33 @@ Uses leaked passwords from another website.
 ## USB Security
 
 Never plug an unknown USB device into a company computer.
+
+# Lab: User Entered Password into a Phishing Website
+
+## Priority
+
+P1 - Critical
+
+## Issue
+
+User entered Microsoft 365 credentials into a phishing website after clicking a suspicious email.
+
+## First Checks
+
+1. Verify the user's identity.
+2. Ask when the link was clicked.
+3. Confirm whether the user entered a password or approved any MFA requests.
+4. Determine whether the device shows any unusual behavior.
+
+## Action Taken
+
+1. Reset the user's Microsoft 365 password immediately.
+2. Revoke active sign-in sessions.
+3. Reset or re-register MFA if necessary.
+4. Advise the user not to approve unexpected MFA prompts.
+5. Escalate the phishing incident to the security team.
+6. Document the phishing email and affected account.
+
+## Status
+
+Password was reset, MFA secured, and the incident was escalated. User confirmed they could sign in safely.
