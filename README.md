@@ -11,54 +11,54 @@ My goal is to become a Junior IT Support / Help Desk Analyst supporting Windows 
 # Technical Skills
 
 ## Windows Administration
-Windows 10/11 troubleshooting
-Event Viewer
-Task Manager
-Services
-Reliability Monitor
-BitLocker
-Windows Update
-Safe Mode
+- Windows 10/11 troubleshooting
+- Event Viewer
+- Task Manager
+- Services
+- Reliability Monitor
+- BitLocker
+- Windows Update
+- Safe Mode
 
 ## Microsoft 365
-Outlook troubleshooting
-Microsoft Teams
-Microsoft Entra ID
-User licensing
-MFA support
-Shared mailboxes
+- Outlook troubleshooting
+- Microsoft Teams
+- Microsoft Entra ID
+- User licensing
+- MFA support
+- Shared mailboxes
 
 ## Networking
-DNS
-DHCP
-IP addressing
-MAC addresses
-VPN troubleshooting
-Ping
-Tracert
-Nslookup
-Ipconfig
+- DNS
+- DHCP
+- IP addressing
+- MAC addresses
+- VPN troubleshooting
+- Ping
+- Tracert
+- Nslookup
+- Ipconfig
 
 ## Active Directory
-Password resets
-Account unlocks
-Group membership
-Organizational Units
-User management
-Group Policy
+- Password resets
+- Account unlocks
+- Group membership
+- Organizational Units
+- User management
+- Group Policy
 
 ## Security
-Phishing identification
-MFA fatigue attacks
-Password spraying
-Ransomware response
-USB security basics
+- Phishing identification
+- MFA fatigue attacks
+- Password spraying
+- Ransomware response
+- USB security basics
 
 ## Tools
-Git & GitHub
-VS Code
-PowerShell
-Windows Command Prompt
+- Git & GitHub
+- VS Code
+- PowerShell
+- Windows Command Prompt
 
 ## Labs Completed
 - Network troubleshooting using ping, ipconfig, nslookup and tracert.
@@ -71,10 +71,10 @@ Windows Command Prompt
 
 ## Throughout this portfolio I practiced:
 
-Troubleshooting Windows issues.
-Resolving Microsoft 365 incidents.
-Supporting Active Directory users.
-Working with Group Policy.
-Diagnosing VPN and network issues.
-Writing professional IT support tickets.
-Following security incident response procedures.
+- Troubleshooting Windows issues.
+- Resolving Microsoft 365 incidents.
+- Supporting Active Directory users.
+- Working with Group Policy.
+- Diagnosing VPN and network issues.
+- Writing professional IT support tickets.
+- Following security incident response procedures.
