@@ -65,3 +65,26 @@ User entered Microsoft 365 credentials into a phishing website after clicking a 
 ## Status
 
 Password was reset, MFA secured, and the incident was escalated. User confirmed they could sign in safely.
+
+## Phishing Incident Response
+
+### Scenario 1: User Clicked a Suspicious Link
+
+- Document the incident.
+- Check whether any files were downloaded.
+- Scan the device if required.
+- Report the phishing email.
+
+### Scenario 2: User Entered Credentials
+
+- Reset the password immediately.
+- Revoke active sign-in sessions.
+- Reset or verify MFA.
+- Escalate the incident.
+
+### Scenario 3: User Approved an Unexpected MFA Prompt
+
+- Treat the account as potentially compromised.
+- Reset password and MFA.
+- Escalate to the security team.
+- Document the incident.
